@@ -1,0 +1,2 @@
+paletteselect = 1
+

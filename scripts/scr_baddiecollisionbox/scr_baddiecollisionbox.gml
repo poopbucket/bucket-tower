@@ -1,0 +1,14 @@
+/*
+DECOMPILER FAILED!
+
+System.Exception: Malformed switch statement: bad condition var (state)
+   at UndertaleModLib.Decompiler.Decompiler.HLDecompileBlocks(DecompileContext context, Block& block, Dictionary`2 blocks, Dictionary`2 loops, Dictionary`2 reverseDominators, List`1 alreadyVisited, Block currentLoop, Block stopAt, Block breakTo, Boolean decompileTheLoop, UInt32 depth) in D:\a\UndertaleModTool\UndertaleModTool\UndertaleModLib\Decompiler\Decompiler.cs:line 3493
+   at UndertaleModLib.Decompiler.Decompiler.HLDecompileBlocks(DecompileContext context, Block& block, Dictionary`2 blocks, Dictionary`2 loops, Dictionary`2 reverseDominators, List`1 alreadyVisited, Block currentLoop, Block stopAt, Block breakTo, Boolean decompileTheLoop, UInt32 depth) in D:\a\UndertaleModTool\UndertaleModTool\UndertaleModLib\Decompiler\Decompiler.cs:line 3583
+   at UndertaleModLib.Decompiler.Decompiler.HLDecompileBlocks(DecompileContext context, Block& block, Dictionary`2 blocks, Dictionary`2 loops, Dictionary`2 reverseDominators, List`1 alreadyVisited, Block currentLoop, Block stopAt, Block breakTo, Boolean decompileTheLoop, UInt32 depth) in D:\a\UndertaleModTool\UndertaleModTool\UndertaleModLib\Decompiler\Decompiler.cs:line 3610
+   at UndertaleModLib.Decompiler.Decompiler.HLDecompileBlocks(DecompileContext context, Block& block, Dictionary`2 blocks, Dictionary`2 loops, Dictionary`2 reverseDominators, List`1 alreadyVisited, Block currentLoop, Block stopAt, Block breakTo, Boolean decompileTheLoop, UInt32 depth) in D:\a\UndertaleModTool\UndertaleModTool\UndertaleModLib\Decompiler\Decompiler.cs:line 3610
+   at UndertaleModLib.Decompiler.Decompiler.HLDecompileBlocks(DecompileContext context, Block& block, Dictionary`2 blocks, Dictionary`2 loops, Dictionary`2 reverseDominators, List`1 alreadyVisited, Block currentLoop, Block stopAt, Block breakTo, Boolean decompileTheLoop, UInt32 depth) in D:\a\UndertaleModTool\UndertaleModTool\UndertaleModLib\Decompiler\Decompiler.cs:line 3583
+   at UndertaleModLib.Decompiler.Decompiler.HLDecompileBlocks(DecompileContext context, Block& block, Dictionary`2 blocks, Dictionary`2 loops, Dictionary`2 reverseDominators, List`1 alreadyVisited, Block currentLoop, Block stopAt, Block breakTo, Boolean decompileTheLoop, UInt32 depth) in D:\a\UndertaleModTool\UndertaleModTool\UndertaleModLib\Decompiler\Decompiler.cs:line 3610
+   at UndertaleModLib.Decompiler.Decompiler.HLDecompile(DecompileContext context, Dictionary`2 blocks, Block entryPoint, Block rootExitPoint) in D:\a\UndertaleModTool\UndertaleModTool\UndertaleModLib\Decompiler\Decompiler.cs:line 3660
+   at UndertaleModLib.Decompiler.Decompiler.Decompile(UndertaleCode code, GlobalDecompileContext globalContext) in D:\a\UndertaleModTool\UndertaleModTool\UndertaleModLib\Decompiler\Decompiler.cs:line 3774
+   at Submission#0.DumpCode(UndertaleCode code) in :line 89
+*/

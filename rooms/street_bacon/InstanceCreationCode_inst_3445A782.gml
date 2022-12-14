@@ -1,0 +1,1 @@
+prompt_array = [tv_create_prompt(choose("WAIT NO DONT EAT IT"), (1 >> 0), spr_tv_exprmach4, 2.5)]

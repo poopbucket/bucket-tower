@@ -1,0 +1,23 @@
+Here are a list of things on what was changed as well as where to go for certain features.
+
+As for navigation purposes, some objects mentioned in the readme were renamed. Well lots of things were renamed.
+So here is what was renamed:
+spr_player_poundcancel1 --> spr_player_groundpoundcancel1
+spr_player_poundcancel2 --> spr_player_groundpoundcancel2
+scr_player_backbreaker --> scr_player_tauntmoves
+all tilesets were renamed to start with ts_ instead of tilesets_ or tileset_
+spr_player_mach4 --> spr_player_mach3
+spr_player_mach3 (the original sprite not the renamed one) --> spr_player_mach3OLD
+spr_player_mach --> spr_player_mach1
+spr_player_mach1(not the renamed one) --> spr_player_mach2
+obj_donkey --> obj_cow
+obj_hookup --> obj_flyingladder
+obj_pepperpizza --> obj_jetpack
+All the Ruin rooms were renamed so the room numbers would go in order as to how the ingame order of the rooms are
+
+
+And that is all i can think of from the top of my head
+
+The rest you should be able to navigate on your own, such as searching for sprites, placing down objects, all that jazz.
+However if you did come from UTMT and just switched to GMS2 to use decomps, then I recommend looking up a tutorial on
+how to get started with gms. However UTMT is pretty similar to GMS2, so im sure you will get the hang of it.

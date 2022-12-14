@@ -1,0 +1,20 @@
+What is The Grape Engine exactly?
+
+The Grape Engine is a Pizza Tower Eggplant Build decomp done manually (for the most part). It'll be a watered down version of eggplant build however, since this will be planned for release to patreon members for the modding community.It'll also have a side of grapes instead of eggplants!
+  
+What will I be able to do with it?
+
+You'll be able to create mods with it as well as using most of the eggplant build features! So if you do not want to create a mod using the SAGE 2019 Demo as a base for your mod or the XMAS Demo Build either AND you just want to use the recent Eggplant build as a base, then this is the perfect decomp for you! 
+ 
+Why grapes? and why the green ones?
+
+I like grapes. the Green ones in specific
+
+Can I distribute this decomp to non patreon members?
+
+No because its based off a patreon build, cant really release it to non patreon peeps without getting into trouble. So please do not distribute this decomp to anybody else but patreon members! 
+  
+What will this engine have?
+
+It'll have the essential features that a decomp has! So the important objects like player and camera, the common enemies, some later enemies, most of the sprites, and ONLY the main 3 levels for now, As I said previously, this will be intended for modding purposes, and not everyone needs all the levels. There will also be a test level included to show off the engines capabilites and what it can do. We will also change the workspace of this engine, so we will organize the sprites, objects, rooms and much, much more and QOL Improvements to both the workspace and the game itself. 
+

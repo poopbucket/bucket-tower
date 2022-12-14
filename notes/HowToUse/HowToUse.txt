@@ -1,0 +1,23 @@
+How to use the Toggleable game features:
+
+For Starters, scr_toggleablegameoptions is where you go to toggle custom features of Grape Engine On or Off:
+Toggeling them all OFF will result in Original base Eggplant Build, while all of them ON will result in all of our
+custom features that make Grape engine what it is.
+
+How to enable Console and Debug mode
+
+If you have global.debug mode set to True, then you can press F7 to enable rt shell console. Press F8 to enable Debug mode.
+RT-Shell console already comes with Two commands (for now) which allow you to toggle on Collisions and Hitboxes!
+Debug mode itself is just a bunch of important info that appears on your screen and can quickly toggle it on and off with F8.
+However if you have global.debug mode set to False, none of the buttons mentioned above will do anything. Console and Debug mode will be turned off.
+Set it to false whenever your mod is ready for release!
+
+How do I use the custom tv palettes?
+
+If you want to change the default tv frame palette, Look for the variable called tvframepaletteselect in obj_tv
+If you want to change the player tv animation palettes then feel free to edit the peptv palette sprites.
+Also palette select for the tv is tied to the obj_player palette so if you plan on altering the player palette, remember to alter the player TV palette aswell!
+I also made a special dresser object for the tv frame palette switching. Search for obj_tvdresser and place it down to test it.
+
+
+

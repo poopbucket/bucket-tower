@@ -1,0 +1,2 @@
+treasure_state++
+
