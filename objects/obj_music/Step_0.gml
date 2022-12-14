@@ -27,7 +27,7 @@ if (prevpillar_on_camera != pillar_on_camera)
 }
 if global.panic
 {
-    if (music != mu_pizzatime && music != mu_finalescape && music != mu_noiseescape)
+    if (music != mu_pizzatime && music != mu_chase && music != mu_streetescape && music != mu_finalescape && music != mu_noiseescape)
     {
         music = mu_pizzatime
         audio_stop_sound(musicID)
@@ -37,6 +37,21 @@ if global.panic
         pillarmusicID = -4
         if (!obj_player.ispeppino)
             music = mu_noiseescape
+        audio_stop_sound(musicID)
+        musicID = scr_music(music)
+        if (pillarmusicID != -4)
+            audio_stop_sound(pillarmusicID)
+        pillarmusicID = -4
+        if (string_letters(room_get_name(room)) == "street")
+            music = mu_streetescape
+        audio_stop_sound(musicID)
+        musicID = scr_music(music)
+        if (pillarmusicID != -4)
+            audio_stop_sound(pillarmusicID)
+    }
+    else if global.lap and (music != mu_chase)
+    {
+        music = mu_chase
         audio_stop_sound(musicID)
         musicID = scr_music(music)
         if (pillarmusicID != -4)
