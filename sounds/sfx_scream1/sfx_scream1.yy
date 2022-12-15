@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "sfx_scream1",
   "conversionMode": 0,
   "compression": 0,
   "volume": 0.22,
@@ -12,13 +15,9 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "sfx_scream1",
-  "duration": 0.0,
+  "duration": 1.985306,
   "parent": {
     "name": "Screams",
     "path": "folders/Sounds/SFX/Screams.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "sfx_scream1",
-  "tags": [],
-  "resourceType": "GMSound",
 }

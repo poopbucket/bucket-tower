@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "sfx_hurt2",
   "conversionMode": 0,
   "compression": 0,
   "volume": 0.31,
@@ -12,13 +15,9 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "sfx_hurt2",
-  "duration": 0.0,
+  "duration": 2.26746,
   "parent": {
     "name": "General",
     "path": "folders/Sounds/SFX/General.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "sfx_hurt2",
-  "tags": [],
-  "resourceType": "GMSound",
 }

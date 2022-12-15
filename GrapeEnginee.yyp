@@ -2746,6 +2746,7 @@
     {"id":{"name":"badland_secret2","path":"rooms/badland_secret2/badland_secret2.yy",},"order":18,},
     {"id":{"name":"obj_turret","path":"objects/obj_turret/obj_turret.yy",},"order":139,},
     {"id":{"name":"scr_player_keyget","path":"scripts/scr_player_keyget/scr_player_keyget.yy",},"order":72,},
+    {"id":{"name":"INFOFACE","path":"sprites/INFOFACE/INFOFACE.yy",},"order":8,},
     {"id":{"name":"obj_vigilantebossOLD","path":"objects/obj_vigilantebossOLD/obj_vigilantebossOLD.yy",},"order":2,},
     {"id":{"name":"bg_dungeon1","path":"sprites/bg_dungeon1/bg_dungeon1.yy",},"order":0,},
     {"id":{"name":"bg_dungeon2","path":"sprites/bg_dungeon2/bg_dungeon2.yy",},"order":1,},
