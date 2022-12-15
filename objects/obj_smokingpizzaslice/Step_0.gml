@@ -107,6 +107,7 @@ if (state == (134 << 0))
             hsp = 0
             shot = 0
             sprite_index = spr_pizzaslug_rage
+			scr_soundeffect(brickster2, brickster4)
             image_index = 0
             state = (125 << 0)
             flash = 1
@@ -122,6 +123,7 @@ if (state == (134 << 0))
             substate_buffer = 0
             image_index = 0
             sprite_index = spr_pizzaslug_cough
+			scr_soundeffect(brickster1, brickster3)
         }
     }
 }

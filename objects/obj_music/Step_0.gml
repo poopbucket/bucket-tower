@@ -48,6 +48,7 @@ if global.panic
         musicID = scr_music(music)
         if (pillarmusicID != -4)
             audio_stop_sound(pillarmusicID)
+		pillarmusicID = -4
     }
     else if global.lap and (music != mu_chase)
     {
